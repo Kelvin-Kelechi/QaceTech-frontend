@@ -64,7 +64,7 @@ This assessment includes a **Dashboard** that displays job cards in a grid and a
 
 - **Hovering on a Job Card**: Hovering over a card will give you additional information or highlight the job for better visibility.
 - **Job Status Overview**: The statistical overview at the top of the detailed view allows you to quickly see the status of jobs (e.g., how many are active vs. liquidated).
-- **Navigation Shortcuts**: Use the breadcrumb navigation (like "Dashboard") to you back to the jobs list in the dashboard.
+- **Navigation Shortcuts**: Use the breadcrumb navigation (like "Dashboard") to go back to the jobs list in the dashboard.
 
 ---
 
