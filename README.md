@@ -30,7 +30,7 @@ This assessment includes a **Dashboard** that displays job cards in a grid and a
    - Each tab displays filtered job records based on the current tab.
 
 5. **Job Overview Stats**
-   - The dashboard shows a summary of job statuses:  **Active**, and **Liquidated** with their respective counts.
+   - The dashboard shows a summary of job statuses: **Active**, and **Liquidated** with their respective counts.
 6. **Search and Filtering**
    - You can search and filter jobs by using the **search input** and **dropdown selectors**.
    - The search input allows you to filter job records based on specific parameters (e.g., query or parameter).
@@ -70,11 +70,11 @@ This assessment includes a **Dashboard** that displays job cards in a grid and a
 
 ## 🛠️ Tech Stack
 
-- ⚛️ **React** for the frontend
-- ⚡ **Vite** for fast development and build tool
-- 🧠 **TypeScript** for type safety
-- 📦 **React Router** for navigation
-- 🎨 **Tailwind CSS** for styling (optional based on project setup)
+- **React** for the frontend
+- **Vite** for fast development and build tool
+- **TypeScript** for type safety
+- **React Router** for navigation
+- **Tailwind CSS** for styling
 
 ---
 
@@ -83,7 +83,8 @@ This assessment includes a **Dashboard** that displays job cards in a grid and a
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/Kelvin-Kelechi/QaceTech-frontend.git
+cd QaceTech-frontend
 ```
+
 # QaceTech-frontend
